@@ -1,4 +1,4 @@
-## CS103-linear-algebra (Assignment Description)
+# CS103-linear-algebra (Assignment Description)
 
 ## Assignment 1 & Assignment 2
 [KANG CHIN SHEN_CS103_assignment1_code.ipynb](https://github.com/cskang0121/cs103-linear-algebra/blob/main/assignment_1/KANG%20CHIN%20SHEN_CS103_assignment1_code.ipynb)
