@@ -1,4 +1,4 @@
-# Linear Algebra for Computing (Assignment Description)
+# Linear Algebra for Computing - Assignment Description
 
 ## Assignment 1 & Assignment 2
 [assignment1_code.ipynb](https://github.com/cskang0121/linear-algebra-for-computing/blob/main/assignment_1/assignment1_code.ipynb)
