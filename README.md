@@ -5,4 +5,4 @@
 
 [assignment2_code.ipynb](https://github.com/cskang0121/linear-algebra-for-computing/blob/main/assignment_2/assignment2_code.ipynb)
 
-Both Assignment 1 and Assignment 2 focus on fundamentals and application of Linear Algebra, especially computing-related areas. They were used to solidify the concepts that I have learned in the lecture. For more information, please click on each assignment listed above.
+Both Assignment 1 and Assignment 2 focus on fundamentals and application of Linear Algebra, especially computing-related areas. They were used to solidify the concepts that I have learned throughout the course. For more information, please click on each assignment listed above.
