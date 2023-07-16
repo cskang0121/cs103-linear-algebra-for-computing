@@ -1,4 +1,4 @@
-## CS103 Linear Algebra for Computing
+## CS103 Linear Algebra For Computing
 
 This repository contains my solutions for an introductory course in Linear Algebra. It teaches the mathematical foundations of Linear Algebra so as to illustrate their relevance to computer science and applications. It prepares the students for advanced numerical methods in computing, especially in machine learning and data analytics.
 
